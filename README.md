@@ -1,6 +1,6 @@
 <h1 align="center">  
   <a href="https://git.io/typing-svg">
-    <img src="<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&background=FF0F8D00&width=435&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm++Juan+Ferreira" alt="Typing SVG" /></a>" />
+    <img src="<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&background=FF0F8D00&width=435&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm++Juan+Ferreira" alt="Typing SVG" </a>" />
   </a>
 </h1>
 <h3 align="center">A passionate DevOps, DevSecOps, SRE and Cyber Security</h3>
