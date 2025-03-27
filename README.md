@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Juan+Ferreira" alt="Typing SVG" /></a> </h1>
+<h1 align="center">Hi 👋, I'm  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&background=FF0F8D00&width=435&height=100&lines=Juan+Ferreira" alt="Typing SVG" /></a> </h1>
 <h3 align="center">A passionate DevOps, DevSecOps, SRE and Cyber Security</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juan-ferreira-mf&label=Profile%20views&color=0e75b6&style=flat" alt="juan-ferreira-mf" /> </p>
