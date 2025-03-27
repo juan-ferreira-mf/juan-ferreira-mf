@@ -1,3 +1,4 @@
+https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Juan%20Ferreira
 ## Hi there 👋
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Juan+Ferreira)](https://git.io/typing-svg)
 
