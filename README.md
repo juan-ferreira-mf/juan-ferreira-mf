@@ -2,7 +2,10 @@
 <h3 align="center">A passionate DevOps, DevSecOps, SRE and Cyber Security</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juan-ferreira-mf&label=Profile%20views&color=0e75b6&style=flat" alt="juan-ferreira-mf" /> </p>
-href="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Juan%20Ferreira"
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Juan%20Ferreira&fontAlignY=40&fontSize=60" alt="banner" />
+</p>
+
 - 🔭 I’m currently working on **Ada Tech**
 
 - 🌱 I’m currently learning **Kubernetes, AWS, Backend Development**
