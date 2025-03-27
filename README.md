@@ -10,8 +10,9 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/juan-marques-ferreira/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/juan-marques-ferreira/" height="30" width="40" /></a>
 </p>
 
+<div align="center">  
 <h3 align="left">Languages and Tools:</h3>
-### DevOps  
+### 
 <div align="center">  
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
 <a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
