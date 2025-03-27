@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm  👉 Veja o [Typing SVG](https://git.io/typing-svg) para personalizar sua animação. </h1>
+<h1 align="center">Hi 👋, I'm  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Juan+Ferreira). </h1>
 <h3 align="center">A passionate DevOps, DevSecOps, SRE and Cyber Security</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juan-ferreira-mf&label=Profile%20views&color=0e75b6&style=flat" alt="juan-ferreira-mf" /> </p>
