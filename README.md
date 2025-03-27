@@ -3,7 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juan-ferreira-mf&label=Profile%20views&color=0e75b6&style=flat" alt="juan-ferreira-mf" /> </p>
 
-- 🔭 I’m currently working on **DevOps project**
+- 🔭 I’m currently working on **Ada Tech**
+
+- 🌱 I’m currently learning **Kubernetes, AWS, Backend Development**
+
+- 🤝 I’m looking for help with **New Projects**
+
+- 👨‍💻 All of my projects are available at [myprofile.dexops.site](myprofile.dexops.site)
+
+- 📫 How to reach me **juanrogeriomf@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
