@@ -1,10 +1,10 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Juan%20Ferreira&fontAlignY=40&fontSize=60" alt="banner" />
+</p>
 <h1 align="center"><a <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=3000&background=FF0F8D00&width=435&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm++Juan+Ferreira" alt="Typing SVG"  /></a></h1>
 <h3 align="center">A passionate DevOps, DevSecOps, SRE and Cyber Security</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juan-ferreira-mf&label=Profile%20views&color=0e75b6&style=flat" alt="juan-ferreira-mf" /> </p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Juan%20Ferreira&fontAlignY=40&fontSize=60" alt="banner" />
-</p>
 
 - 🔭 I’m currently working on **Ada Tech**
 
